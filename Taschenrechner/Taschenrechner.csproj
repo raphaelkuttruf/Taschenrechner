@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="RechenaufgabeException.cs" />
+    <Compile Include="Taschenrechner.cs" />
+    <Compile Include="Rechenergebnis.cs" />
+    <Compile Include="Rechenaufgabe.cs" />
+    <Compile Include="Programm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
